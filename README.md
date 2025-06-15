@@ -22,6 +22,9 @@ Bu proje, öğrencilerin ders notlarını paylaşabildiği, takas yapabildiği v
   <img width="170" alt="image" src="https://github.com/user-attachments/assets/d08bdbb0-a8ce-4e5a-996b-3ba0488b8d74" />
 
 - Notlarınızı yükleyebilir, var olanları düzenleyebilir ya da silebilirsiniz.
+
+  <img width="247" alt="image" src="https://github.com/user-attachments/assets/ea067a07-12ea-4379-bd7f-654d5aa533ef" />
+
 - Diğer kullanıcıların paylaştığı notlara erişebilir, takas yapabilirsiniz.
 
 ## Kullanım videosu
