@@ -28,4 +28,7 @@ Bu proje, öğrencilerin ders notlarını paylaşabildiği, takas yapabildiği v
 
 https://youtu.be/M-iNvG2_j0Y
 
-##
+## Buradan çalıştırabilirsiniz
+
+http://localhost/not_takas/register.php
+
